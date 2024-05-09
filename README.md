@@ -1,6 +1,9 @@
-## start a new projecct with 
-npx create-expo-app@latest learn_reactnative
+## I will keep updating...
 
+<kbd><img width="931" alt="hero section" src="./learn_reactnative/assets/Screenshot 2024-05-09 at 11.00.32.png"></kbd>
+
+## start a new project with 
+npx create-expo-app@latest learn_reactnative
 
 
 ### Core components
@@ -11,22 +14,21 @@ npx create-expo-app@latest learn_reactnative
     Button      Alert
 
 
-## Styling Approaches 
-Inline styles
-StyleSheet API
+### Styling Approaches 
+    Inline styles
+    StyleSheet API
 
 
-CSS inheritance 
-    <div style='color:red'>
+### CSS inheritance 
+<div style='color:red'>
         <p>Hello World</p>
-    </div>
+</div>
 Unlike the div in the web, p tags can inherit style from the parent div tag
 in RN, the text can only inherit from text but it can inherit from the view tag.
 
-FlexBox
-Flexbox consist of two main entities 
-flex container 
-flex items 
+## FlexBox
+    Flexbox consist of two main entities 
+    flex container & flex items 
     <View>
         <View>Item 1</View>
         <View>Item 2</View>
@@ -36,21 +38,19 @@ flex items
 
 package.json contains your metadata and scripts
 
-div
-span 
-p tags won't work in react native 
+## div & span & p tags: This won't work in react native 
 
-We use view, 
-RN UI Comp      Andriod     IOS View        Web Analog
-<View>          <ViewGroup>
+## We use view, 
+    RN UI Comp      Andriod     IOS View        Web Analog
+    <View>          <ViewGroup>
 
-<Text>
+    <Text>
 
-<Image>         <ImageView>       <UIImageView>
+    <Image>         <ImageView>       <UIImageView>
 
-<ScrollView>
+    <ScrollView>
 
-<TextInput>
+    <TextInput>
 
 ### View
 View component is  a fundementak core component in react native that serves as a building block for creating user interfaces.
