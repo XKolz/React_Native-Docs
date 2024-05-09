@@ -1,6 +1,8 @@
 ## I will keep updating...
 
 <kbd><img width="931" alt="hero section" src="/learn_reactnative/assets/Screenshot 2024-05-09 at 11.00.32.png"></kbd>
+![alt text](/learn_reactnative/assets/Screenshot%202024-05-09%20at%2011.00.32.png)
+
 
 ## start a new project with 
 npx create-expo-app@latest learn_reactnative
